@@ -1,0 +1,119 @@
+{"messages":[{"role":"user","content":"고객에게 서비스 지연 소식을 전달해야 하는데 불만이 생기지 않게 하고 싶어요."},{"role":"assistant","content":"'서비스 지연 사유를 설명하면서 진심 어린 사과와 보상 또는 개선 약속을 담은 공지문을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"상사가 내 보고서를 너무 딱딱하다고 해요. 좀 더 자연스럽게 고치고 싶어요."},{"role":"assistant","content":"'딱딱한 비즈니스 보고서를 자연스럽고 명확하게 들리도록 부드럽게 다듬어줘.'"}]}
+{"messages":[{"role":"user","content":"회의 내용을 한 장짜리 요약본으로 정리하고 싶어요."},{"role":"assistant","content":"'회의 주요 결론, 담당자, 일정, 후속 조치를 포함한 한 페이지 요약본을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"회사 소개서를 외국 바이어용으로 다시 써야 해요."},{"role":"assistant","content":"'외국 바이어가 이해하기 쉽게 간결하고 매력적인 영어 회사 소개서를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"신입사원 교육 자료를 만들고 싶은데 구조를 모르겠어요."},{"role":"assistant","content":"'신입사원 교육용 PPT의 목차와 핵심 내용을 구성해줘.'"}]}
+{"messages":[{"role":"user","content":"친구에게 위로 메시지를 보내고 싶은데 너무 진지하지 않게 쓰고 싶어요."},{"role":"assistant","content":"'친근하면서도 위로가 되는 짧은 메시지를 써줘.'"}]}
+{"messages":[{"role":"user","content":"내 블로그 글이 너무 길어서 독자들이 중간에 나가요. 핵심만 남기고 싶어요."},{"role":"assistant","content":"'이 글에서 핵심 주장과 사례만 남기고 불필요한 문장을 제거해줘.'"}]}
+{"messages":[{"role":"user","content":"면접 때 자기소개를 잘하고 싶은데 문장이 어색해요."},{"role":"assistant","content":"'면접용 자기소개를 자연스럽고 자신감 있게 들리도록 다듬어줘.'"}]}
+{"messages":[{"role":"user","content":"고객 리뷰에 긍정적으로 답변을 달고 싶어요."},{"role":"assistant","content":"'고객의 긍정 리뷰에 감사와 진심이 담긴 따뜻한 답글을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"신제품 설명문을 쉽게 이해할 수 있도록 바꾸고 싶어요."},{"role":"assistant","content":"'전문 용어를 줄이고 누구나 이해할 수 있는 쉬운 설명문으로 다시 써줘.'"}]}
+{"messages":[{"role":"user","content":"친구 생일에 센스 있게 축하하고 싶어요."},{"role":"assistant","content":"'센스 있고 유머러스하게 친구 생일을 축하하는 문장을 써줘.'"}]}
+{"messages":[{"role":"user","content":"팀원들에게 고생했다는 메시지를 남기고 싶어요."},{"role":"assistant","content":"'팀원들의 노고를 진심으로 칭찬하고 감사하는 메시지를 써줘.'"}]}
+{"messages":[{"role":"user","content":"광고 문구를 새로 만들어야 하는데 너무 평범해요."},{"role":"assistant","content":"'사람의 시선을 끌 수 있는 짧고 창의적인 광고 문구를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"투자자에게 사업 계획을 설명해야 해요."},{"role":"assistant","content":"'투자자에게 핵심 가치를 전달할 수 있는 간결한 사업 요약문을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"내 제품 리뷰를 SNS용으로 짧게 요약하고 싶어요."},{"role":"assistant","content":"'이 리뷰의 핵심만 담은 짧은 SNS용 소개 문구를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"상대방을 설득할 이메일을 써야 해요."},{"role":"assistant","content":"'상대방이 긍정적으로 반응하도록 논리적이면서 부드러운 설득형 이메일을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"팀워크를 높이는 워크숍을 기획해야 해요."},{"role":"assistant","content":"'팀워크 향상을 위한 하루짜리 워크숍 프로그램을 구성해줘.'"}]}
+{"messages":[{"role":"user","content":"우리 브랜드를 한 문장으로 표현하고 싶어요."},{"role":"assistant","content":"'브랜드의 핵심 가치를 담은 인상적인 한 줄 슬로건을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"강의 내용을 학생들이 쉽게 이해하게 정리하고 싶어요."},{"role":"assistant","content":"'학생 눈높이에 맞게 강의 내용을 핵심 요점으로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"직원 만족도 조사를 준비해야 해요."},{"role":"assistant","content":"'직원 만족도와 업무 환경 개선을 알아보기 위한 설문 문항 10개를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"면접관으로서 지원자를 평가할 기준이 필요해요."},{"role":"assistant","content":"'지원자의 역량, 태도, 커뮤니케이션을 평가할 구체적인 면접 기준표를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"온라인 수업 공지를 공손하게 쓰고 싶어요."},{"role":"assistant","content":"'학생들에게 전달할 공손하고 명확한 온라인 수업 공지문을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"유튜브 영상 제목이 너무 밋밋해요."},{"role":"assistant","content":"'클릭을 유도할 수 있는 매력적인 유튜브 제목을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"책 내용을 간단하게 소개하고 싶어요."},{"role":"assistant","content":"'이 책의 핵심 주제와 교훈을 한 단락으로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"채용 공고를 좀 더 눈에 띄게 만들고 싶어요."},{"role":"assistant","content":"'지원자의 관심을 끌 수 있는 명확하고 매력적인 채용 공고문을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"팀원들에게 새 목표를 공유하는 글을 쓰고 싶어요."},{"role":"assistant","content":"'팀의 새 목표와 동기를 부여할 수 있는 리더의 메시지를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"논문 초록을 간결하게 정리하고 싶어요."},{"role":"assistant","content":"'이 논문 초록의 불필요한 표현을 줄이고 핵심 연구 결과만 남겨줘.'"}]}
+{"messages":[{"role":"user","content":"프로젝트 일정이 늦어져서 공지해야 해요."},{"role":"assistant","content":"'지연 이유를 투명하게 설명하면서 신뢰를 줄 수 있는 일정 조정 안내문을 써줘.'"}]}
+{"messages":[{"role":"user","content":"회사 블로그에 올릴 첫 인사말을 쓰고 싶어요."},{"role":"assistant","content":"'친근하면서도 전문적인 느낌의 회사 첫 인사말을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"강의 홍보 문구를 짧고 강렬하게 만들고 싶어요."},{"role":"assistant","content":"'강의의 핵심 가치를 강조하는 짧고 강렬한 홍보 문구를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"학생의 자기소개서를 첨삭하고 싶어요."},{"role":"assistant","content":"'학생의 자기소개서를 문법, 논리, 자연스러움 중심으로 수정해줘.'"}]}
+{"messages":[{"role":"user","content":"부모님께 감사 편지를 쓰고 싶은데 어색해요."},{"role":"assistant","content":"'진심이 느껴지면서도 자연스러운 감사 편지를 써줘.'"}]}
+{"messages":[{"role":"user","content":"디자인 포트폴리오를 소개하는 글을 쓰고 싶어요."},{"role":"assistant","content":"'디자이너의 개성과 작업 철학이 드러나는 포트폴리오 소개 글을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"온라인 리뷰에 답변을 남기고 싶어요."},{"role":"assistant","content":"'고객의 피드백에 성실히 응답하면서 브랜드 이미지를 높이는 답변을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"회사 뉴스레터 첫 문단을 어떻게 써야 할지 모르겠어요."},{"role":"assistant","content":"'관심을 끌 수 있는 자연스러운 뉴스레터 도입부를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"팀 회의 후 후속 조치 메일을 보내야 해요."},{"role":"assistant","content":"'회의 주요 결론과 다음 단계 계획을 포함한 후속 조치 이메일을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"고객의 불만을 해결하는 답장을 써야 해요."},{"role":"assistant","content":"'고객의 불만을 공감하고 문제 해결 방안을 제시하는 진정성 있는 답장을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"면접 합격 통보 메일을 정중하게 보내고 싶어요."},{"role":"assistant","content":"'지원자에게 합격 소식을 따뜻하고 예의 있게 전달하는 이메일을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"온라인 이벤트 초대장을 쓰고 싶어요."},{"role":"assistant","content":"'참여를 유도할 수 있는 매력적인 온라인 이벤트 초대 문구를 써줘.'"}]}
+{"messages":[{"role":"user","content":"회의 안건을 깔끔하게 정리하고 싶어요."},{"role":"assistant","content":"'회의 목적과 세부 안건을 보기 좋게 정리한 문서를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"고객 후기 영상을 소개하는 문구가 필요해요."},{"role":"assistant","content":"'고객 후기 영상의 진정성과 신뢰를 강조하는 소개 문구를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"내 소개를 SNS 프로필에 올리고 싶어요."},{"role":"assistant","content":"'짧지만 인상적인 SNS 프로필 자기소개 문장을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"신입사원에게 환영 메시지를 보내고 싶어요."},{"role":"assistant","content":"'신입사원이 환영받는 분위기를 느낄 수 있는 따뜻한 환영 메시지를 써줘.'"}]}
+{"messages":[{"role":"user","content":"보도자료 제목이 너무 밋밋해요."},{"role":"assistant","content":"'언론의 관심을 끌 수 있는 보도자료 제목을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"행사 결과 보고서를 작성해야 해요."},{"role":"assistant","content":"'행사 주요 성과와 참가자 반응을 포함한 깔끔한 결과 보고서를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 인터뷰 내용을 정리해서 공유하고 싶어요."},{"role":"assistant","content":"'고객 인터뷰의 핵심 인사이트만 정리한 요약문을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"블로그 글 서론이 너무 지루해요."},{"role":"assistant","content":"'독자의 관심을 끌 수 있는 흥미로운 서론으로 다시 써줘.'"}]}
+{"messages":[{"role":"user","content":"학생 발표 대본을 간단히 만들고 싶어요."},{"role":"assistant","content":"'발표 주제에 맞는 짧고 자연스러운 발표 대본을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"이력서 자기소개란을 어떻게 써야 할지 모르겠어요."},{"role":"assistant","content":"'지원 직무에 어울리게 간결하고 자신감 있는 자기소개 문장을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"회사 SNS 게시글을 더 자연스럽게 만들고 싶어요."},{"role":"assistant","content":"'SNS 특유의 톤앤매너로 자연스럽고 캐주얼하게 들리도록 수정해줘.'"}]}
+{"messages":[{"role":"user","content":"회사 인스타그램 계정을 운영 중인데 팔로워 참여율이 낮아요."},{"role":"assistant","content":"'인스타그램 팔로워들이 댓글과 공유로 참여하도록 유도하는 게시글 아이디어를 5개 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"제품 상세페이지 문구가 밋밋하다는 피드백을 받았어요."},{"role":"assistant","content":"'구매 전환율을 높일 수 있도록 생생한 감정과 이점을 강조한 제품 소개 문구를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"기획서를 써야 하는데 설득력이 부족해요."},{"role":"assistant","content":"'아이디어의 필요성과 기대효과를 강조해 설득력 있는 기획서 개요를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"이벤트 참가 신청 페이지 문구를 만들어야 해요."},{"role":"assistant","content":"'참여를 유도할 수 있는 짧고 명확한 이벤트 신청 페이지 문구를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"신입사원 오리엔테이션 안내문을 써야 합니다."},{"role":"assistant","content":"'신입사원이 기대감을 느낄 수 있도록 따뜻하고 명확한 오리엔테이션 안내문을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"회사 채용 공고를 써야 해요."},{"role":"assistant","content":"'지원자들이 매력을 느낄 수 있도록 회사의 강점을 잘 드러내는 채용 공고문을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"고객센터 자동응답 메시지를 만들고 싶어요."},{"role":"assistant","content":"'고객이 친절하다고 느낄 수 있는 자동응답 인사 메시지를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"리뷰를 분석해서 공통 키워드를 추출하고 싶어요."},{"role":"assistant","content":"'고객 리뷰에서 자주 등장하는 핵심 키워드를 자동으로 추출하는 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"브랜드 스토리를 잘 전달하고 싶어요."},{"role":"assistant","content":"'고객이 공감할 수 있는 브랜드의 시작 배경과 가치관을 담은 스토리 문장을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"팀 내부 커뮤니케이션이 잘 안돼요."},{"role":"assistant","content":"'팀원 간 협력과 피드백이 자연스럽게 이루어지도록 도와주는 소통 개선 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"회사 매출 보고서를 보기 쉽게 정리하고 싶어요."},{"role":"assistant","content":"'복잡한 수치를 한눈에 이해할 수 있는 매출 요약 보고서 템플릿을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"회의 시작 멘트를 어떻게 해야 자연스러울까요?"},{"role":"assistant","content":"'회의 분위기를 부드럽게 이끌 수 있는 시작 멘트 예시 5가지를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"동료에게 피드백을 주고 싶은데 기분 나쁘게 하지 않고 싶어요."},{"role":"assistant","content":"'상대방이 긍정적으로 받아들일 수 있는 피드백 문장을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"블로그 글을 좀 더 전문적으로 보이게 하고 싶어요."},{"role":"assistant","content":"'전문성을 느낄 수 있도록 통계나 인용을 활용해 블로그 문체를 개선하는 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"우리 회사 서비스의 강점을 잘 표현하고 싶어요."},{"role":"assistant","content":"'서비스의 차별점과 고객 혜택을 중심으로 설득력 있게 설명하는 문구를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"리뷰 자동 요약 기능을 만들고 싶어요."},{"role":"assistant","content":"'고객 리뷰 여러 개를 한 줄 요약으로 자동 정리하는 AI 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"제품 후기 중 긍정적인 것만 모으고 싶어요."},{"role":"assistant","content":"'리뷰 데이터에서 긍정적인 의견만 필터링해서 추출하는 프롬프트를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"내 블로그 글의 문체를 좀 더 감성적으로 바꾸고 싶어요."},{"role":"assistant","content":"'현재 글을 감성적이고 따뜻한 톤으로 바꿔주는 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"인스타그램 해시태그를 자동으로 생성하고 싶어요."},{"role":"assistant","content":"'본문 내용을 기반으로 인기 있고 관련성 높은 해시태그를 생성하는 프롬프트를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"유튜브 영상 제목을 클릭 유도형으로 바꾸고 싶어요."},{"role":"assistant","content":"'사람들이 클릭하고 싶게 만드는 유튜브 영상 제목 5개를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"회사 뉴스레터 첫 문장을 쓰고 싶어요."},{"role":"assistant","content":"'독자의 흥미를 끌 수 있는 뉴스레터 도입부 문장을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 설득용 프레젠테이션을 만들어야 해요."},{"role":"assistant","content":"'고객이 신뢰를 느낄 수 있도록 설득력 있는 발표 구성과 문구를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"프로젝트 이름을 멋지게 짓고 싶어요."},{"role":"assistant","content":"'프로젝트 성격을 반영한 세련된 이름 5가지를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"직원 사기를 올릴 수 있는 문구를 쓰고 싶어요."},{"role":"assistant","content":"'직원들이 자부심을 느낄 수 있는 긍정적 메시지를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"서비스 설명서를 고객 중심으로 바꾸고 싶어요."},{"role":"assistant","content":"'기능 중심이 아닌 고객 가치 중심으로 다시 쓴 서비스 소개 문구를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"협업 툴 사용 가이드를 작성 중이에요."},{"role":"assistant","content":"'초보자도 쉽게 이해할 수 있는 협업 툴 사용 단계별 안내 문구를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"신규 캠페인 콘셉트를 정해야 해요."},{"role":"assistant","content":"'브랜드 이미지와 일치하면서 기억에 남는 캠페인 콘셉트 3가지를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 후기 중 자주 나오는 키워드를 시각화하고 싶어요."},{"role":"assistant","content":"'리뷰 데이터를 분석해 워드클라우드 시각화를 위한 핵심 키워드 목록을 생성하는 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"협력사에 감사 인사를 전하고 싶어요."},{"role":"assistant","content":"'비즈니스 관계를 유지하며 감사의 마음이 느껴지는 메시지를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"고객의 감정 상태를 분석해서 대응하고 싶어요."},{"role":"assistant","content":"'고객 문장에서 감정을 분류하고, 각 감정에 맞는 응대 문장을 생성하는 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"회사 내부 슬로건을 정해야 해요."},{"role":"assistant","content":"'회사 비전과 문화를 반영한 짧고 의미 있는 내부 슬로건 5가지를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 응대 스크립트를 자동으로 생성하고 싶어요."},{"role":"assistant","content":"'고객 문의 유형에 맞는 친절한 응대 스크립트를 자동으로 만들어주는 프롬프트를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"회사 홍보 영상을 찍는데 내레이션 대본이 필요해요."},{"role":"assistant","content":"'브랜드 철학과 감동을 담은 영상 내레이션 문장을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"SNS 광고 문구를 쓰고 싶은데 너무 평범해요."},{"role":"assistant","content":"'광고 효과가 높고 사람들의 관심을 끄는 SNS 문구 5개를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"직원 인터뷰 기사를 작성해야 해요."},{"role":"assistant","content":"'직원의 성장을 보여주며 회사에 대한 긍정적 이미지를 주는 인터뷰 기사 초안을 써줘.'"}]}
+{"messages":[{"role":"user","content":"사내 뉴스레터 콘텐츠 아이디어가 필요해요."},{"role":"assistant","content":"'직원 참여를 유도할 수 있는 사내 뉴스레터 콘텐츠 주제 5가지를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"팀 리더로서 동기부여 문구를 전하고 싶어요."},{"role":"assistant","content":"'팀의 사기를 북돋우고 목표 의식을 강화하는 리더십 메시지를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"이벤트 홍보용 배너 문구를 쓰고 싶어요."},{"role":"assistant","content":"'시선을 끌고 클릭을 유도하는 이벤트 배너 문구를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"직원 만족도 조사를 안내하려고 해요."},{"role":"assistant","content":"'직원들이 참여하고 싶게 만드는 간결한 만족도 조사 안내문을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 리뷰 분석 결과를 보고서 형태로 정리하고 싶어요."},{"role":"assistant","content":"'리뷰 데이터를 분석해 주요 감정과 키워드를 표 형식으로 정리하는 보고서 템플릿을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"서비스 개선 아이디어를 모으고 싶어요."},{"role":"assistant","content":"'직원들이 창의적으로 의견을 낼 수 있도록 유도하는 아이디어 제안 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"AI 챗봇의 초기 인사 문구를 정하고 싶어요."},{"role":"assistant","content":"'사용자가 친근하게 느낄 수 있는 AI 챗봇의 첫 인사 문구를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"프로젝트 보고서를 시각적으로 표현하고 싶어요."},{"role":"assistant","content":"'데이터를 표와 그래프로 표현하는 시각적 보고서 구성을 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 설문 결과를 쉽게 설명하고 싶어요."},{"role":"assistant","content":"'설문 데이터를 분석해 핵심 인사이트를 간결하게 요약하는 문장을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"팀 목표를 시각적으로 표현하고 싶어요."},{"role":"assistant","content":"'팀 목표를 한눈에 이해할 수 있는 인포그래픽 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"협업 중 역할이 혼란스러워요."},{"role":"assistant","content":"'프로젝트 역할과 책임을 명확히 정리하는 역할 분담표를 만드는 프롬프트를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"AI가 고객 피드백을 자동으로 분류하게 하고 싶어요."},{"role":"assistant","content":"'고객 피드백을 긍정/부정/중립으로 분류하는 텍스트 분류 프롬프트를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"브랜드 톤앤매너를 정하고 싶어요."},{"role":"assistant","content":"'브랜드의 개성과 감정을 반영한 톤앤매너 가이드라인을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"직원 교육용 퀴즈를 만들고 싶어요."},{"role":"assistant","content":"'회사 정책과 업무 관련 내용을 재미있게 학습할 수 있는 퀴즈 5문제를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"AI 서비스 소개 페이지를 써야 해요."},{"role":"assistant","content":"'AI 기술의 장점과 사용 편의성을 중심으로 고객이 이해하기 쉽게 소개하는 문구를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"사내 캠페인 문구를 만들고 싶어요."},{"role":"assistant","content":"'직원 참여를 유도하고 긍정적인 행동 변화를 이끌어내는 캠페인 문구를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"홍보용 슬로건을 더 트렌디하게 바꾸고 싶어요."},{"role":"assistant","content":"'젊은 세대가 공감할 수 있는 트렌디한 슬로건 3가지를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"우리 제품의 장점을 한 문장으로 표현하고 싶어요."},{"role":"assistant","content":"'제품의 핵심 가치를 한 문장으로 임팩트 있게 표현하는 문구를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"회사의 비전 문구를 새로 쓰고 싶어요."},{"role":"assistant","content":"'미래 지향적이고 감동적인 회사 비전 문구를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"클라이언트에게 제안 메일을 보내야 해요."},{"role":"assistant","content":"'상대가 긍정적으로 검토하고 싶게 만드는 제안 메일 문장을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"내 자기소개서 문장을 더 설득력 있게 고치고 싶어요."},{"role":"assistant","content":"'자신의 경험을 스토리텔링 형식으로 풀어내 설득력 있는 자기소개 문장을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"면접 대비 예상 질문을 뽑고 싶어요."},{"role":"assistant","content":"'지원 직무에 맞는 실전 면접 예상 질문 10개를 생성하는 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"SNS에 올릴 브랜드 홍보 영상을 기획하고 싶어요."},{"role":"assistant","content":"'짧은 영상 포맷으로 브랜드 감정을 담은 콘셉트 3개를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 응대 매뉴얼을 만들고 싶어요."},{"role":"assistant","content":"'자주 발생하는 상황별로 대응 문구와 절차가 포함된 고객 응대 매뉴얼을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"비즈니스 제안서를 좀 더 전문적으로 보이게 하고 싶어요."},{"role":"assistant","content":"'논리적 구조와 수치적 근거를 포함해 설득력 있게 구성된 제안서 예시를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"회사 홍보용 카드뉴스 문구를 쓰고 싶어요."},{"role":"assistant","content":"'짧고 임팩트 있게 메시지를 전달하는 카드뉴스용 문구 5개를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"AI 기반 서비스를 소개할 때 쉽게 설명하고 싶어요."},{"role":"assistant","content":"'일반인도 이해하기 쉬운 비유를 활용해 AI 서비스를 설명하는 문장을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"사내 공모전 주제를 정해야 해요."},{"role":"assistant","content":"'직원들의 창의성을 자극하는 사내 공모전 주제 5가지를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"비즈니스 보고서 요약을 자동화하고 싶어요."},{"role":"assistant","content":"'긴 보고서에서 핵심만 추출해 요약하는 AI 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"신규 고객을 위한 웰컴 이메일을 만들고 싶어요."},{"role":"assistant","content":"'고객이 환영받는 기분을 느낄 수 있는 따뜻한 톤의 웰컴 메일 문장을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"우리 서비스의 문제점을 객관적으로 평가하고 싶어요."},{"role":"assistant","content":"'서비스의 장단점을 객관적으로 분석하고 개선점을 제시하는 프롬프트를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"AI 챗봇이 자연스럽게 대화하게 만들고 싶어요."},{"role":"assistant","content":"'사용자의 감정에 맞춰 자연스럽게 이어지는 대화 흐름을 설계하는 프롬프트를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 인터뷰 질문지를 만들고 싶어요."},{"role":"assistant","content":"'고객의 실제 사용 경험과 감정을 끌어낼 수 있는 인터뷰 질문 10개를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"리뷰 요약 기능을 더 정밀하게 만들고 싶어요."},{"role":"assistant","content":"'리뷰를 카테고리별로 자동 분류하고 요약하는 프롬프트를 만들어줘.'"}]}

@@ -1,0 +1,177 @@
+{"messages":[{"role":"user","content":"나는 카페 리뷰를 자동으로 요약하는 인공지능을 만들고 싶어"},{"role":"assistant","content":"Claude가 딱이야! 자연스러운 언어 요약에 강하고 뉘앙스도 잘 잡아. 프롬프트는 이렇게: '다음 리뷰들을 핵심 포인트 3개로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"이미지에서 글자를 인식하고 싶어"},{"role":"assistant","content":"Gemini를 추천해! 시각적 정보 처리에 강해서 이미지 속 글자도 잘 읽어. 프롬프트는 '사진 속 모든 텍스트를 줄 단위로 정확히 인식해줘.'"}]}
+{"messages":[{"role":"user","content":"사람 말투에서 감정을 분석하고 싶어"},{"role":"assistant","content":"Claude가 좋아. 감정 묘사에 예민하고 문장 속 분위기를 잘 읽어. 프롬프트는 '문장의 어조와 단어 선택을 기준으로 감정을 분석해줘.'"}]}
+{"messages":[{"role":"user","content":"코딩 문제를 풀어주는 챗봇을 만들고 싶어"},{"role":"assistant","content":"GPT를 써! 코드 이해력과 디버깅 능력이 좋아. 프롬프트는 '주어진 문제 코드를 단계별로 설명하고 수정해줘.'"}]}
+{"messages":[{"role":"user","content":"사용자 질문에 친절하게 답하는 고객센터 봇을 만들고 싶어"},{"role":"assistant","content":"Llama 추천! 대화체가 부드럽고 응답이 자연스러워. 프롬프트는 '고객 질문에 공감하면서 간결하게 답변해줘.'"}]}
+{"messages":[{"role":"user","content":"음식 이름으로 레시피를 알려주는 봇을 만들고 싶어"},{"role":"assistant","content":"GPT가 최고야. 요리 절차 정리와 재료 목록 구성에 강하지. 프롬프트는 '주어진 음식 이름의 레시피를 단계별로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"긴 뉴스 기사를 짧게 요약하고 싶어"},{"role":"assistant","content":"Claude를 써봐! 긴 문맥을 잃지 않으면서 깔끔하게 요약해줘. 프롬프트는 '다음 뉴스의 핵심만 3줄로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"사진에서 제품 이름을 추출하고 싶어"},{"role":"assistant","content":"Gemini가 제격이야. 이미지 안의 텍스트를 정확히 읽고 구조화해줘. 프롬프트는 '이미지 속에서 브랜드명과 제품명을 추출해줘.'"}]}
+{"messages":[{"role":"user","content":"회의록을 요약해서 결론만 뽑고 싶어"},{"role":"assistant","content":"Claude 추천! 긴 대화문 맥락 파악에 탁월해. 프롬프트는 '회의 내용을 한 문단으로 핵심 결론만 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"프로그래밍 튜터 챗봇을 만들고 싶어"},{"role":"assistant","content":"GPT가 완벽하지! 코드를 설명하고 예제도 잘 만들어줘. 프롬프트는 '초보자에게 쉽게 설명하듯 코드 원리를 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"사용자 피드백에서 불만 유형을 자동 분류하고 싶어"},{"role":"assistant","content":"Claude가 좋아. 문장의 의도와 감정을 정밀하게 구분해. 프롬프트는 '각 피드백을 불만, 칭찬, 제안 중 하나로 분류해줘.'"}]}
+{"messages":[{"role":"user","content":"이미지 기반 퀴즈를 내는 챗봇을 만들고 싶어"},{"role":"assistant","content":"Gemini를 써! 이미지를 분석하고 퀴즈를 만들어내는 데 강해. 프롬프트는 '이 이미지를 보고 맞힐 수 있는 퀴즈를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"SNS 댓글에서 긍정, 부정 감정을 분류하고 싶어"},{"role":"assistant","content":"Claude가 딱이야. 짧은 문장에서도 감정 뉘앙스를 잘 캐치해. 프롬프트는 '댓글의 감정을 긍정, 부정, 중립 중 하나로 분류해줘.'"}]}
+{"messages":[{"role":"user","content":"개발자가 쓴 에러 로그를 분석하고 싶어"},{"role":"assistant","content":"GPT가 딱이야. 오류 원인 분석과 수정 제안이 특기야. 프롬프트는 '에러 로그를 분석해서 원인과 해결 방안을 제시해줘.'"}]}
+{"messages":[{"role":"user","content":"블로그 글 제목을 자동으로 만들어주고 싶어"},{"role":"assistant","content":"Claude 추천! 문체와 감정을 잘 잡아서 클릭 유도형 제목을 잘 만들어. 프롬프트는 '다음 글 내용을 기반으로 자연스러운 제목 3개를 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"사진에서 분위기나 감정을 설명하고 싶어"},{"role":"assistant","content":"Gemini가 최고야. 이미지의 색감, 표정, 구도 등을 분석해 감정을 묘사해줘. 프롬프트는 '이 사진이 주는 분위기를 묘사해줘.'"}]}
+{"messages":[{"role":"user","content":"학생 에세이를 평가하는 도우미를 만들고 싶어"},{"role":"assistant","content":"Claude가 잘해. 논리와 구조를 평가하고 피드백을 잘 줘. 프롬프트는 '다음 글의 논리성, 문장력, 전달력을 평가해줘.'"}]}
+{"messages":[{"role":"user","content":"코드 리팩토링을 자동으로 해주는 모델을 만들고 싶어"},{"role":"assistant","content":"GPT를 써봐. 코드 최적화와 가독성 개선에 능숙해. 프롬프트는 '이 코드를 더 효율적이고 깔끔하게 리팩토링해줘.'"}]}
+{"messages":[{"role":"user","content":"챗봇이 시를 쓰게 하고 싶어"},{"role":"assistant","content":"Claude가 예술 감각이 있어. 감정 표현과 운율을 자연스럽게 써. 프롬프트는 '봄날의 그리움을 주제로 짧은 시를 써줘.'"}]}
+{"messages":[{"role":"user","content":"이미지에서 텍스트 감정을 분석하고 싶어"},{"role":"assistant","content":"Gemini가 제격이야. 텍스트를 인식하고 감정까지 분석할 수 있어. 프롬프트는 '사진 속 글자의 감정 톤을 해석해줘.'"}]}
+{"messages":[{"role":"user","content":"문장 문법을 교정해주는 모델을 만들고 싶어"},{"role":"assistant","content":"GPT가 잘해. 문법 오류 탐지와 수정 제안이 빠르고 정확해. 프롬프트는 '다음 문장의 문법 오류를 수정하고 이유를 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"사용자 리뷰에서 공통 키워드를 추출하고 싶어"},{"role":"assistant","content":"Claude 추천! 리뷰 맥락을 파악해서 핵심 단어를 잘 뽑아줘. 프롬프트는 '다음 리뷰들에서 자주 등장하는 키워드를 5개만 추출해줘.'"}]}
+{"messages":[{"role":"user","content":"사진에서 여러 물체를 구분하고 싶어"},{"role":"assistant","content":"Gemini가 딱이야. 시각적 물체 인식에 강하고 정확도가 높아. 프롬프트는 '사진 속 물체들을 이름별로 구분해줘.'"}]}
+{"messages":[{"role":"user","content":"긴 기술 문서를 요약해서 핵심 문장만 뽑고 싶어"},{"role":"assistant","content":"Claude를 써. 정보 요약력과 문장 압축이 탁월해. 프롬프트는 '기술 문서의 핵심 내용만 문장 단위로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"코딩 테스트 연습용 문제를 자동으로 만들고 싶어"},{"role":"assistant","content":"GPT가 딱이야. 알고리즘 문제 생성과 테스트케이스 설계에 강해. 프롬프트는 '중간 난이도의 알고리즘 문제를 1개 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"대화 요약을 실시간으로 해주는 봇을 만들고 싶어"},{"role":"assistant","content":"Claude를 추천해. 대화 맥락 추적과 흐름 정리에 강하지. 프롬프트는 '이 대화 내용을 짧은 요약으로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"이미지에서 사람 수를 세고 싶어"},{"role":"assistant","content":"Gemini가 제격이야. 인물 인식이 뛰어나서 인원수 세기가 쉬워. 프롬프트는 '사진 속에 등장하는 사람의 수를 세어줘.'"}]}
+{"messages":[{"role":"user","content":"문장을 더 자연스럽게 바꿔주는 모델을 만들고 싶어"},{"role":"assistant","content":"Llama 추천! 문장 구조를 자연스럽게 다듬는 데 강해. 프롬프트는 '이 문장을 자연스럽고 매끄럽게 다시 써줘.'"}]}
+{"messages":[{"role":"user","content":"사용자 요청을 태스크로 자동 분류하고 싶어"},{"role":"assistant","content":"Claude가 좋아. 문장 의도를 파악해 태스크 라벨링을 잘해줘. 프롬프트는 '각 문장을 업무, 문의, 불만 중 하나로 분류해줘.'"}]}
+{"messages":[{"role":"user","content":"프레젠테이션용 요약 슬라이드를 만들고 싶어"},{"role":"assistant","content":"GPT가 최고야. 핵심 구조를 잘 잡고 포인트별 정리를 해줘. 프롬프트는 '이 글을 발표 슬라이드용 요약으로 구성해줘.'"}]}
+{"messages":[{"role":"user","content":"유튜브 영상 자막을 요약하고 싶어"},{"role":"assistant","content":"Claude가 좋아. 긴 대화체 요약에 능하고 문맥을 잘 이어줘. 프롬프트는 '이 자막을 5줄 이내로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"이미지에서 상품 이름과 가격을 추출하고 싶어"},{"role":"assistant","content":"Gemini를 추천해! 시각적 텍스트 인식에 강해서 가격 같은 숫자도 잘 뽑아. 프롬프트는 '사진 속 상품명과 가격을 JSON 형식으로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"프로그래밍 코드 설명서를 자동으로 만들고 싶어"},{"role":"assistant","content":"GPT가 딱이야. 함수, 변수, 로직을 사람 말로 풀어내는 데 능숙해. 프롬프트는 '이 코드의 기능을 주석 형식으로 자세히 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"문체를 작가 스타일로 바꾸고 싶어"},{"role":"assistant","content":"Claude를 써봐. 문체 변환에 자연스럽고 어휘 감각이 뛰어나. 프롬프트는 '이 문장을 김훈 스타일로 바꿔줘.'"}]}
+{"messages":[{"role":"user","content":"사진에서 배경을 설명해주고 싶어"},{"role":"assistant","content":"Gemini가 딱이야. 이미지 분석력으로 풍경이나 배경 묘사를 잘해. 프롬프트는 '이 사진의 배경을 묘사해줘.'"}]}
+{"messages":[{"role":"user","content":"프로그래밍 에러 메시지를 이해시키고 싶어"},{"role":"assistant","content":"GPT 추천! 에러 의미를 쉽게 풀이하고 해결 방향을 알려줘. 프롬프트는 '다음 에러 메시지를 초보자에게 설명하듯 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"사람 대화의 어조를 분석하고 싶어"},{"role":"assistant","content":"Claude가 좋아. 어조, 뉘앙스, 감정선을 섬세하게 읽어줘. 프롬프트는 '대화 속 어조를 분석하고 감정을 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"제품 설명을 요약해서 마케팅 문구로 바꾸고 싶어"},{"role":"assistant","content":"Claude가 탁월해. 핵심 포인트를 살려서 문장을 매력적으로 다듬어. 프롬프트는 '이 설명을 1문장 마케팅 문구로 바꿔줘.'"}]}
+{"messages":[{"role":"user","content":"여행 사진을 보고 장소를 추측하고 싶어"},{"role":"assistant","content":"Gemini 추천! 시각적 단서로 장소 추론을 잘해. 프롬프트는 '사진 속 단서로 볼 때 이 장소는 어디인지 추측해줘.'"}]}
+{"messages":[{"role":"user","content":"프로그래밍 교육 자료를 자동으로 만들고 싶어"},{"role":"assistant","content":"GPT가 좋아. 코드 예시와 설명을 구조적으로 만들어줘. 프롬프트는 '파이썬 초보자를 위한 간단한 수업 자료를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"리뷰에서 유머러스한 코멘트를 뽑고 싶어"},{"role":"assistant","content":"Claude가 재밌게 잘해. 문장 속 유머 포인트를 캐치해. 프롬프트는 '다음 리뷰들 중 웃긴 표현만 추려줘.'"}]}
+{"messages":[{"role":"user","content":"이미지 속 감정적인 장면을 묘사하고 싶어"},{"role":"assistant","content":"Gemini가 최고야. 표정, 색감, 구도에서 감정을 읽어내. 프롬프트는 '이 사진이 주는 감정적 분위기를 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"코드 속 변수명을 의미 있게 바꿔주고 싶어"},{"role":"assistant","content":"GPT가 잘해. 변수의 역할을 파악해 명확한 이름으로 바꿔줘. 프롬프트는 '이 코드의 변수명을 더 의미 있게 수정해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 문의를 분류해서 담당 부서에 자동 배정하고 싶어"},{"role":"assistant","content":"Claude 추천! 문장 의도 분류와 태깅이 강해. 프롬프트는 '다음 문의를 기술, 결제, 배송 중 하나로 분류해줘.'"}]}
+{"messages":[{"role":"user","content":"동영상 썸네일의 텍스트를 인식하고 싶어"},{"role":"assistant","content":"Gemini를 써! 영상 프레임에서도 글자를 정확히 추출해. 프롬프트는 '이 썸네일에 포함된 모든 텍스트를 읽어줘.'"}]}
+{"messages":[{"role":"user","content":"학생 답안을 자동 채점하고 싶어"},{"role":"assistant","content":"Claude가 잘해. 논리적 일관성과 표현을 기준으로 채점이 가능해. 프롬프트는 '다음 답안을 기준 답변과 비교해 점수를 매겨줘.'"}]}
+{"messages":[{"role":"user","content":"파이썬 코드 오류를 자동 수정하고 싶어"},{"role":"assistant","content":"GPT가 딱이야. 오류 위치를 찾아서 수정안을 제시해. 프롬프트는 '다음 코드를 실행 가능한 형태로 수정해줘.'"}]}
+{"messages":[{"role":"user","content":"사진에서 글씨체 스타일을 분류하고 싶어"},{"role":"assistant","content":"Gemini 추천! 시각적 패턴을 잘 구분해 글씨체 인식이 가능해. 프롬프트는 '이 이미지의 글씨체를 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"비즈니스 메일 문체를 교정하고 싶어"},{"role":"assistant","content":"Claude가 잘해. 공손하고 자연스러운 톤으로 문체를 바꿔줘. 프롬프트는 '이 메일을 예의 바르고 자연스럽게 수정해줘.'"}]}
+{"messages":[{"role":"user","content":"코드를 문서화하는 자동화 도구를 만들고 싶어"},{"role":"assistant","content":"GPT가 제격이야. 함수 설명, 입력, 출력 요약까지 깔끔하게 정리해줘. 프롬프트는 '이 코드의 기능과 입력/출력을 표 형식으로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"소설 대화를 감정별로 정리하고 싶어"},{"role":"assistant","content":"Claude를 추천해! 문학적 감정 표현에 강해. 프롬프트는 '대사별 감정을 분류하고 간단히 이유를 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"사진에서 텍스트를 추출하고 번역하고 싶어"},{"role":"assistant","content":"Gemini를 써! 텍스트 인식과 번역을 한 번에 잘해. 프롬프트는 '사진 속 글자를 인식하고 한국어로 번역해줘.'"}]}
+{"messages":[{"role":"user","content":"AI 모델 비교표를 자동으로 만들고 싶어"},{"role":"assistant","content":"GPT가 잘해. 구조적 표 정리와 요약에 특화돼 있어. 프롬프트는 'Claude, Gemini, GPT, Llama의 차이점을 표로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"대화 내용을 분석해서 키워드를 시각화하고 싶어"},{"role":"assistant","content":"Claude 추천! 문맥 기반 키워드 추출이 강력해. 프롬프트는 '이 대화에서 중요한 단어 10개를 뽑아줘.'"}]}
+{"messages":[{"role":"user","content":"풍경 사진의 계절을 추측하고 싶어"},{"role":"assistant","content":"Gemini가 제격이야. 색감과 분위기로 계절을 추측해줘. 프롬프트는 '이 풍경 사진의 계절을 추측해줘.'"}]}
+{"messages":[{"role":"user","content":"프로그래밍 문제 설명을 간결하게 바꾸고 싶어"},{"role":"assistant","content":"GPT가 좋아. 장황한 문장을 논리적으로 압축해줘. 프롬프트는 '이 문제 설명을 더 간단하게 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"에세이를 더 감성적으로 바꾸고 싶어"},{"role":"assistant","content":"Claude 추천! 감정 표현을 섬세하게 풍부하게 바꿔줘. 프롬프트는 '이 글을 감성적으로 다시 써줘.'"}]}
+{"messages":[{"role":"user","content":"제품 리뷰 사진에서 브랜드 로고를 인식하고 싶어"},{"role":"assistant","content":"Gemini가 딱이야. 시각적 로고 탐지에 특화돼 있어. 프롬프트는 '사진 속 브랜드 로고를 찾아 이름을 알려줘.'"}]}
+{"messages":[{"role":"user","content":"주어진 문장을 문학적인 문체로 바꾸고 싶어"},{"role":"assistant","content":"Llama가 잘해. 문장 구조를 부드럽게 바꾸고 비유를 추가해줘. 프롬프트는 '이 문장을 문학적인 표현으로 다시 써줘.'"}]}
+{"messages":[{"role":"user","content":"영화 줄거리를 요약해서 한 문장으로 표현하고 싶어"},{"role":"assistant","content":"Claude 추천! 스토리 요약과 핵심 포인트 추출에 강해. 프롬프트는 '이 영화의 줄거리를 한 문장으로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"이미지에서 표를 인식하고 싶어"},{"role":"assistant","content":"Gemini가 제격이야. 시각적 구조 인식이 강해 표를 텍스트로 잘 변환해. 프롬프트는 '사진 속 표를 데이터 형태로 변환해줘.'"}]}
+{"messages":[{"role":"user","content":"코드 리뷰를 자동으로 해주는 봇을 만들고 싶어"},{"role":"assistant","content":"GPT가 좋아. 코드 품질과 논리를 평가하고 제안을 잘 해줘. 프롬프트는 '이 코드의 문제점과 개선점을 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"이메일 제목을 자동으로 생성하고 싶어"},{"role":"assistant","content":"Claude가 잘해. 문맥을 파악해서 자연스러운 제목을 만들어. 프롬프트는 '이 이메일 내용을 요약해 제목을 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"이미지에서 인물의 표정을 분석하고 싶어"},{"role":"assistant","content":"Gemini 추천! 얼굴 특징 인식과 감정 판별에 뛰어나. 프롬프트는 '이 사람의 표정에서 느껴지는 감정을 분석해줘.'"}]}
+{"messages":[{"role":"user","content":"프로그래밍 학습용 퀴즈를 자동으로 만들고 싶어"},{"role":"assistant","content":"GPT가 딱이야. 난이도 조절과 개념 기반 문제 생성이 가능해. 프롬프트는 '파이썬 기초 개념으로 퀴즈 1문제 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"인터뷰 대화를 요약해서 주제별로 정리하고 싶어"},{"role":"assistant","content":"Claude 추천! 대화 내용을 주제별로 구분해서 요약을 잘해. 프롬프트는 '이 인터뷰를 주제별 요약으로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"사진에서 배경과 인물을 분리하고 싶어"},{"role":"assistant","content":"Gemini가 제격이야. 시각 객체 구분과 경계 인식이 뛰어나. 프롬프트는 '이 이미지에서 사람과 배경을 분리해줘.'"}]}
+{"messages":[{"role":"user","content":"긴 보고서를 핵심 요약으로 만들고 싶어"},{"role":"assistant","content":"Claude가 좋아. 중요한 부분만 뽑아서 정리하는 데 강해. 프롬프트는 '이 보고서를 핵심 요약 5줄로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"코드 속 시간 복잡도를 분석하고 싶어"},{"role":"assistant","content":"GPT를 추천해! 알고리즘 분석과 설명이 명확해. 프롬프트는 '이 코드의 시간 복잡도를 분석하고 이유를 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"이미지에서 사람의 옷 스타일을 묘사하고 싶어"},{"role":"assistant","content":"Gemini가 딱이야. 색감과 패션 요소를 인식해 묘사해줘. 프롬프트는 '이 사진 속 인물의 옷차림을 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"작문 첨삭 도우미를 만들고 싶어"},{"role":"assistant","content":"Claude가 잘해. 문체와 논리적 흐름을 자연스럽게 다듬어줘. 프롬프트는 '이 문장을 자연스럽게 수정하고 이유를 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"SQL 쿼리 생성 모델을 만들고 싶어"},{"role":"assistant","content":"GPT 추천! 데이터 요청을 SQL로 바꾸는 데 최적이야. 프롬프트는 '이 요구사항을 SQL 쿼리로 변환해줘.'"}]}
+{"messages":[{"role":"user","content":"이미지에서 특정 색상의 비율을 계산하고 싶어"},{"role":"assistant","content":"Gemini가 좋아. 색상 분석에 특화돼 있어. 프롬프트는 '이 이미지에서 파란색이 차지하는 비율을 계산해줘.'"}]}
+{"messages":[{"role":"user","content":"스토리텔링 챗봇을 만들고 싶어"},{"role":"assistant","content":"Claude가 최고야. 서사 구성과 감정 묘사에 강하지. 프롬프트는 '이 주제로 짧은 이야기를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"코드를 자연어로 설명해주는 기능을 만들고 싶어"},{"role":"assistant","content":"GPT가 제격이야. 코드 로직을 사람 언어로 명확히 풀어줘. 프롬프트는 '이 코드를 초보자가 이해할 수 있게 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"인스타그램 게시글 요약을 자동으로 만들고 싶어"},{"role":"assistant","content":"Claude 추천! 짧은 글의 감정과 톤을 유지하면서 요약해. 프롬프트는 '이 게시글의 핵심 내용을 2줄로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"이미지에서 동물이 있는지 판별하고 싶어"},{"role":"assistant","content":"Gemini를 써! 물체 인식이 강해서 동물 여부를 잘 구분해. 프롬프트는 '이 이미지에 동물이 있는지 알려줘.'"}]}
+{"messages":[{"role":"user","content":"학습 노트를 자동 요약하고 싶어"},{"role":"assistant","content":"Claude가 잘해. 복잡한 내용도 체계적으로 정리해줘. 프롬프트는 '이 학습 노트를 핵심 요약으로 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"코드를 테스트케이스로 자동 검증하고 싶어"},{"role":"assistant","content":"GPT가 최고야. 코드 입력/출력 구조를 분석해 테스트를 만들어줘. 프롬프트는 '이 코드의 테스트케이스를 생성해줘.'"}]}
+{"messages":[{"role":"user","content":"사진에서 빛의 방향을 분석하고 싶어"},{"role":"assistant","content":"Gemini 추천! 명암과 그림자를 분석해 빛 방향을 추정해. 프롬프트는 '이 사진의 빛이 어디서 오는지 분석해줘.'"}]}
+{"messages":[{"role":"user","content":"회의 대화에서 할 일 목록만 추출하고 싶어"},{"role":"assistant","content":"Claude가 제격이야. 액션 아이템 감지에 강해. 프롬프트는 '이 회의록에서 할 일을 목록 형태로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"파이썬 함수 문서 자동 생성기 만들고 싶어"},{"role":"assistant","content":"GPT 추천! 함수 설명, 입력, 출력 요약을 자동화해줘. 프롬프트는 '이 코드의 함수별 docstring을 생성해줘.'"}]}
+{"messages":[{"role":"user","content":"사진에서 차량 종류를 구분하고 싶어"},{"role":"assistant","content":"Gemini가 잘해. 시각적 패턴 인식으로 차량 종류를 구분해줘. 프롬프트는 '이 사진의 차량 종류를 알려줘.'"}]}
+{"messages":[{"role":"user","content":"소설의 인물 관계를 정리하고 싶어"},{"role":"assistant","content":"Claude가 좋아. 등장인물 관계와 감정선을 정리하는 데 강해. 프롬프트는 '이 소설의 인물 관계를 표로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"코드 성능을 개선하는 제안을 받고 싶어"},{"role":"assistant","content":"GPT 추천! 시간 복잡도와 효율 개선 포인트를 제시해줘. 프롬프트는 '이 코드를 더 빠르게 개선할 방법을 제안해줘.'"}]}
+{"messages":[{"role":"user","content":"이미지에서 식물 종류를 인식하고 싶어"},{"role":"assistant","content":"Gemini를 써! 식물 잎과 형태 인식이 뛰어나. 프롬프트는 '이 식물이 어떤 종류인지 알려줘.'"}]}
+{"messages":[{"role":"user","content":"글의 논리 구조를 평가하고 싶어"},{"role":"assistant","content":"Claude가 딱이야. 논리 흐름과 근거 연결성을 분석해줘. 프롬프트는 '이 글의 논리적 구조를 평가해줘.'"}]}
+{"messages":[{"role":"user","content":"파이썬 코드에서 보안 취약점을 찾고 싶어"},{"role":"assistant","content":"GPT 추천! 코드 취약점 탐지에 잘 대응해. 프롬프트는 '이 코드의 보안 위험 요소를 찾아줘.'"}]}
+{"messages":[{"role":"user","content":"나는 카페 리뷰를 자동으로 요약하는 인공지능을 만들고 싶어"},{"role":"assistant","content":"Claude가 딱이야! 자연스러운 언어 요약에 강하고 뉘앙스도 잘 잡아. 프롬프트는 이렇게: '다음 리뷰들을 핵심 포인트 3개로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 문의 이메일에 자동으로 답장하는 시스템을 구축하려고 하는데 어떤 AI가 좋을까?"},{"role":"assistant","content":"Claude를 추천해! 공감 능력이 뛰어나고 긴 문맥도 잘 이해해. 시스템 프롬프트에 '고객의 감정을 이해하고 친절하게 응대하는 CS 담당자'로 설정하면 완벽해."}]}
+{"messages":[{"role":"user","content":"법률 문서를 분석해서 중요한 조항만 추출하고 싶어"},{"role":"assistant","content":"Claude가 최적이야! 복잡한 법률 용어도 정확하게 파악하고, 200K 토큰까지 처리 가능해서 긴 계약서도 문제없어. '다음 계약서에서 의무사항과 리스크 조항을 추출해줘'라고 요청해봐."}]}
+{"messages":[{"role":"user","content":"Python 코드 리뷰 자동화 툴을 만들고 싶은데"},{"role":"assistant","content":"Claude Sonnet 4.5가 완벽해! 코드 이해력이 뛰어나고 보안 이슈나 성능 문제도 잘 찾아내. 프롬프트: '다음 코드의 잠재적 버그, 보안 취약점, 개선점을 분석해줘.'"}]}
+{"messages":[{"role":"user","content":"블로그 글을 SEO에 최적화된 형태로 다시 쓰고 싶어"},{"role":"assistant","content":"Claude를 써봐! 자연스러운 글쓰기에 강하고 키워드도 자연스럽게 녹여내. '다음 글을 SEO 친화적으로 재작성해줘. 키워드: [목록]'으로 요청하면 돼."}]}
+{"messages":[{"role":"user","content":"회의록 자동 생성 AI를 만들려는데 어떤 모델이 좋아?"},{"role":"assistant","content":"Claude가 딱이야! 긴 대화 내용을 구조화하는 능력이 뛰어나. 프롬프트: '다음 회의 내용을 1) 주요 결정사항 2) 액션 아이템 3) 후속 일정으로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"영어 이메일을 한국어로 번역하면서 비즈니스 톤으로 바꾸고 싶어"},{"role":"assistant","content":"Claude 추천! 단순 번역이 아니라 문화적 뉘앙스까지 반영해. '다음 영문 이메일을 한국 비즈니스 문화에 맞는 공손한 표현으로 번역해줘'라고 해봐."}]}
+{"messages":[{"role":"user","content":"제품 설명서를 초보자도 이해할 수 있게 쉽게 다시 쓰고 싶어"},{"role":"assistant","content":"Claude가 적합해! 복잡한 내용을 쉽게 풀어쓰는 능력이 탁월해. '다음 기술 문서를 중학생도 이해할 수 있게 쉬운 말로 다시 써줘. 예시도 추가해줘.'"}]}
+{"messages":[{"role":"user","content":"소설 플롯을 자동으로 생성하는 AI 도구를 만들고 싶어"},{"role":"assistant","content":"Claude를 써! 창의적인 스토리텔링에 강하고 캐릭터 개발도 잘해. 프롬프트: '다음 설정으로 5장 분량의 스릴러 소설 플롯을 만들어줘. 반전 포함.'"}]}
+{"messages":[{"role":"user","content":"채용 공고문을 매력적으로 작성하는 AI를 만들려고"},{"role":"assistant","content":"Claude가 좋아! 설득력 있는 카피라이팅에 탁월해. '다음 직무 정보를 바탕으로 MZ세대에게 어필하는 채용 공고를 작성해줘. 회사 문화 강조.'"}]}
+{"messages":[{"role":"user","content":"연구 논문의 초록을 자동으로 작성하고 싶어"},{"role":"assistant","content":"Claude Sonnet 4.5 추천! 학술적 글쓰기에 강하고 정확해. '다음 논문 본문을 바탕으로 배경, 방법, 결과, 결론을 포함한 250단어 초록을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"소셜 미디어 게시물을 자동으로 생성하는 툴이 필요해"},{"role":"assistant","content":"Claude를 써봐! 짧고 임팩트 있는 카피 작성에 능해. '다음 제품 정보로 인스타그램 캡션 3개 만들어줘. 해시태그 5개 포함, 친근한 톤.'"}]}
+{"messages":[{"role":"user","content":"의료 상담 챗봇을 만들고 싶은데 어떤 AI가 안전할까?"},{"role":"assistant","content":"Claude가 적합해! 민감한 정보를 신중하게 다루고 불확실할 땐 전문가 상담을 권해. 시스템 프롬프트: '일반적인 건강 정보만 제공하고, 진단이나 처방은 절대 하지 마. 심각한 증상은 즉시 병원 방문 권유.'"}]}
+{"messages":[{"role":"user","content":"유튜브 영상 스크립트를 자막으로 변환하면서 요약도 함께 만들고 싶어"},{"role":"assistant","content":"Claude가 완벽해! 긴 텍스트 처리에 강하고 구조화도 잘해. '다음 스크립트를 1) 타임스탬프별 자막 2) 3분 요약본으로 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"이력서를 직무에 맞게 최적화하는 AI 서비스를 만들려고"},{"role":"assistant","content":"Claude 추천! 맞춤형 콘텐츠 생성에 뛰어나. 프롬프트: '다음 이력서를 [직무명] 포지션에 맞게 재구성해줘. 관련 경험 강조하고 키워드 최적화.'"}]}
+{"messages":[{"role":"user","content":"뉴스 기사를 팩트 체크하는 시스템을 구축하고 싶어"},{"role":"assistant","content":"Claude가 좋아! 논리적 분석과 증거 기반 판단에 강해. '다음 기사의 주장들을 분석하고, 검증 가능한 사실과 의견을 구분해줘. 출처가 필요한 부분도 표시해줘.'"}]}
+{"messages":[{"role":"user","content":"게임 시나리오를 대화형으로 생성하는 AI를 만들고 싶어"},{"role":"assistant","content":"Claude Sonnet 4.5 딱이야! 복잡한 대화 트리와 캐릭터 일관성 유지에 탁월해. 프롬프트: '판타지 RPG 게임의 NPC 대화를 만들어줘. 플레이어 선택에 따라 3가지 분기.'"}]}
+{"messages":[{"role":"user","content":"레시피를 식단 제한에 맞게 변환하는 AI가 필요해"},{"role":"assistant","content":"Claude를 써! 창의적인 대체 방법 제안에 능해. '다음 레시피를 비건/글루텐프리로 변환해줘. 영양 균형 유지하고 맛도 비슷하게.'"}]}
+{"messages":[{"role":"user","content":"강의 내용을 퀴즈로 자동 변환하는 시스템을 만들려고"},{"role":"assistant","content":"Claude가 적합해! 핵심 개념 추출과 문제 출제에 강해. 프롬프트: '다음 강의 자료에서 핵심 개념 5개를 찾고, 각각 4지선다 문제 2개씩 만들어줘. 난이도 표시.'"}]}
+{"messages":[{"role":"user","content":"부동산 매물 설명을 매력적으로 작성하는 AI 도구가 필요해"},{"role":"assistant","content":"Claude 추천! 장점을 부각하는 설득력 있는 카피 작성에 탁월해. '다음 매물 정보로 감성적이면서 구체적인 매물 설명 작성해줘. 주변 환경과 라이프스타일 강조.'"}]}
+{"messages":[{"role":"user","content":"기술 문서를 API 레퍼런스로 자동 변환하고 싶어"},{"role":"assistant","content":"Claude Sonnet 4.5가 완벽해! 코드와 문서 구조화에 강해. '다음 코드의 모든 함수를 분석해서 OpenAPI 형식의 문서 만들어줘. 파라미터, 리턴값, 예제 포함.'"}]}
+{"messages":[{"role":"user","content":"고객 피드백을 감정 분석하고 카테고리별로 분류하고 싶어"},{"role":"assistant","content":"Claude가 좋아! 감정 뉘앙스 파악과 분류에 뛰어나. 프롬프트: '다음 리뷰들을 1) 긍정/부정/중립 2) 제품/서비스/배송 카테고리로 분류하고 주요 이슈 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"프레젠테이션 슬라이드 내용을 자동으로 생성하고 싶어"},{"role":"assistant","content":"Claude를 써봐! 논리적 구조화와 핵심 메시지 전달에 강해. '다음 주제로 10장 슬라이드 아웃라인 만들어줘. 각 슬라이드마다 제목, 핵심 포인트 3개, 비주얼 제안.'"}]}
+{"messages":[{"role":"user","content":"챗봇이 사용자 의도를 정확히 파악하게 만들고 싶어"},{"role":"assistant","content":"Claude가 적합해! 문맥 이해와 의도 분석에 탁월해. 시스템 프롬프트: '사용자 질문의 숨겨진 의도를 파악해. 불명확하면 명확화 질문을 해. 5개 이상의 의도 카테고리로 분류.'"}]}
+{"messages":[{"role":"user","content":"마케팅 이메일 A/B 테스트용 변형을 자동 생성하고 싶어"},{"role":"assistant","content":"Claude 추천! 다양한 톤과 스타일 생성에 능해. '다음 이메일의 5가지 변형 만들어줘. 각각 다른 설득 전략 사용: 긴급성, 혜택, 사회적 증거, 감성, 논리.'"}]}
+{"messages":[{"role":"user","content":"학술 논문에서 인용할 문장을 추천하는 AI를 만들고 싶어"},{"role":"assistant","content":"Claude Sonnet 4.5가 좋아! 맥락 파악과 관련성 판단에 강해. 프롬프트: '다음 논문에서 [주제]와 관련된 인용 가능한 핵심 문장 5개 추출해줘. 각 문장의 중요도와 맥락 설명 포함.'"}]}
+{"messages":[{"role":"user","content":"음식 사진을 보고 레시피를 생성하는 AI를 만들려고"},{"role":"assistant","content":"Claude를 써! 비전 기능으로 이미지 분석하고 창의적인 레시피 작성에 강해. 이미지와 함께 '이 음식의 재료와 조리 순서를 단계별로 설명해줘. 대체 가능한 재료도 제안.'"}]}
+{"messages":[{"role":"user","content":"계약서의 리스크를 자동으로 평가하는 시스템이 필요해"},{"role":"assistant","content":"Claude가 완벽해! 긴 문서 분석과 리스크 식별에 탁월해. '다음 계약서를 검토하고 1) 높음/중간/낮음 리스크로 분류 2) 각 조항의 잠재적 문제점 3) 협상 포인트 제시해줘.'"}]}
+{"messages":[{"role":"user","content":"직원 온보딩 가이드를 대화형 Q&A로 만들고 싶어"},{"role":"assistant","content":"Claude 추천! 복잡한 정보를 대화형으로 풀어내는 능력이 뛰어나. 시스템 프롬프트: '신입 사원의 질문에 친절하게 답변해. 회사 규정, 복지, 업무 프로세스 등. 관련 문서 링크도 제공.'"}]}
+{"messages":[{"role":"user","content":"코딩 면접 문제를 자동으로 생성하고 평가하고 싶어"},{"role":"assistant","content":"Claude Sonnet 4.5가 딱이야! 코드 생성과 평가에 강하고 다양한 난이도 조절 가능해. 프롬프트: '[레벨]의 [언어] 알고리즘 문제 3개 만들어줘. 각 문제마다 힌트, 테스트 케이스, 최적 솔루션 포함.'"}]}
+{"messages":[{"role":"user","content":"자기소개서를 더 매끄럽게 다듬고 싶어"},{"role":"assistant","content":"GPT가 자연스러운 글쓰기와 문체 교정에 강해. 프롬프트는 '이 자기소개서를 매끄럽고 자연스럽게 수정해줘.'"}]}
+{"messages":[{"role":"user","content":"면접 질문 리스트를 자동으로 만들어주고 싶어"},{"role":"assistant","content":"GPT가 인사 질문 생성에 최적화돼 있어. 프롬프트는 '다음 직무에 맞는 면접 질문 10개를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"책 요약문을 간결하게 만들고 싶어"},{"role":"assistant","content":"GPT가 독서 요약에 능숙해. 프롬프트는 '이 책 내용을 세 문장으로 핵심 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"블로그 글을 더 흥미롭게 다시 써보고 싶어"},{"role":"assistant","content":"GPT가 문체 변환과 톤 조정에 강해. 프롬프트는 '이 글을 더 흥미롭게 다시 써줘.'"}]}
+{"messages":[{"role":"user","content":"학생들의 답안을 자동으로 채점하고 싶어"},{"role":"assistant","content":"GPT로 가능해! 기준 문항을 주면 채점 논리를 잘 따라가. 프롬프트는 '모범 답안 기준으로 이 학생 답안을 평가해줘.'"}]}
+{"messages":[{"role":"user","content":"유튜브 자막에서 핵심 내용만 뽑고 싶어"},{"role":"assistant","content":"GPT가 대화형 텍스트 요약에 강해. 프롬프트는 '이 자막의 핵심 내용을 5줄로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"메일 제목을 더 클릭 유도형으로 만들고 싶어"},{"role":"assistant","content":"GPT가 카피라이팅에 탁월해. 프롬프트는 '이 메일 제목을 더 주목도 높게 바꿔줘.'"}]}
+{"messages":[{"role":"user","content":"마케팅 문구를 짧고 인상적으로 바꾸고 싶어"},{"role":"assistant","content":"GPT가 짧은 카피 생성에 강해. 프롬프트는 '이 문구를 짧고 인상적인 홍보 문장으로 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"소셜 미디어 댓글을 감정별로 분류하고 싶어"},{"role":"assistant","content":"GPT가 감정 인식에 강해. 프롬프트는 '댓글을 긍정, 부정, 중립으로 분류해줘.'"}]}
+{"messages":[{"role":"user","content":"법률 문서를 쉽게 풀어쓰고 싶어"},{"role":"assistant","content":"GPT가 복잡한 문장을 이해하고 쉽게 풀어쓰는 데 강해. 프롬프트는 '이 법률 문장을 이해하기 쉽게 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"프로그래밍 코드를 주석 달아서 설명하고 싶어"},{"role":"assistant","content":"GPT가 코드 해석에 탁월해. 프롬프트는 '이 코드의 각 부분에 주석을 달아서 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"API 문서를 자동으로 작성하고 싶어"},{"role":"assistant","content":"GPT가 기술 문서 작성에 최적화돼 있어. 프롬프트는 '이 코드에 맞는 API 사용 설명서를 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 문의 내용을 자동 분류하고 싶어"},{"role":"assistant","content":"GPT로 가능해! 주제나 카테고리 기반 분류에 강해. 프롬프트는 '문의 내용을 카테고리별로 분류해줘.'"}]}
+{"messages":[{"role":"user","content":"채팅 대화에서 요약 보고서를 만들고 싶어"},{"role":"assistant","content":"GPT가 대화 요약에 특화돼 있어. 프롬프트는 '이 채팅 로그를 요약 보고서 형태로 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"블로그 글 초안을 자동으로 작성하고 싶어"},{"role":"assistant","content":"GPT가 글 초안 생성에 강해. 프롬프트는 '이 주제에 대한 블로그 초안을 작성해줘.'"}]}
+{"messages":[{"role":"user","content":"제품 설명문을 간결하게 바꾸고 싶어"},{"role":"assistant","content":"GPT가 요약형 설명문 생성에 딱이야. 프롬프트는 '이 제품 설명을 짧고 핵심적으로 바꿔줘.'"}]}
+{"messages":[{"role":"user","content":"문학 작품을 시대적 배경 중심으로 분석하고 싶어"},{"role":"assistant","content":"GPT가 분석적 글쓰기에 능해. 프롬프트는 '이 작품을 시대적 배경 중심으로 분석해줘.'"}]}
+{"messages":[{"role":"user","content":"뉴스 헤드라인을 자동 생성하고 싶어"},{"role":"assistant","content":"GPT가 제목 생성에 강해. 프롬프트는 '이 뉴스 내용을 바탕으로 헤드라인 3개를 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"코드를 다른 프로그래밍 언어로 변환하고 싶어"},{"role":"assistant","content":"GPT가 코드 변환에 능숙해. 프롬프트는 '이 파이썬 코드를 자바스크립트로 변환해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 피드백을 정리해서 요약표로 만들고 싶어"},{"role":"assistant","content":"GPT가 데이터 요약과 구조화에 강해. 프롬프트는 '이 피드백들을 항목별 요약표로 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"유저 인터뷰 내용을 분석해서 인사이트를 얻고 싶어"},{"role":"assistant","content":"GPT가 자연어 인터뷰 분석에 강해. 프롬프트는 '이 인터뷰 내용을 바탕으로 주요 인사이트를 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"FAQ 답변을 자동으로 생성하고 싶어"},{"role":"assistant","content":"GPT가 질의응답 자동화에 탁월해. 프롬프트는 '이 질문 리스트에 대한 자연스러운 답변을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"글을 더 창의적으로 다시 써보고 싶어"},{"role":"assistant","content":"GPT가 문체 변형과 창의적 변환에 능해. 프롬프트는 '이 글을 더 창의적이고 재밌게 다시 써줘.'"}]}
+{"messages":[{"role":"user","content":"제품 리뷰를 요약해서 마케팅 문구로 만들고 싶어"},{"role":"assistant","content":"GPT가 요약과 문장 전환에 강해. 프롬프트는 '이 리뷰를 바탕으로 짧은 홍보 문장을 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"긴 논문을 간단히 정리하고 싶어"},{"role":"assistant","content":"GPT가 학문적 요약에 강해. 프롬프트는 '이 논문을 연구 목적과 결론 중심으로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"상품 후기에서 공통된 키워드를 추출하고 싶어"},{"role":"assistant","content":"GPT가 키워드 빈도 파악과 요약에 능해. 프롬프트는 '이 후기들에서 가장 많이 언급된 키워드를 찾아줘.'"}]}
+{"messages":[{"role":"user","content":"강의 녹취록을 자동으로 요약하고 싶어"},{"role":"assistant","content":"GPT가 긴 텍스트 요약에 강해. 프롬프트는 '이 강의 내용을 핵심 개념 위주로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"프로그래밍 문제에 대한 해설을 자동으로 만들고 싶어"},{"role":"assistant","content":"GPT가 코드 해석과 설명에 강해. 프롬프트는 '이 문제의 코드 풀이 과정을 단계별로 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"대화 데이터를 요약해서 감정 통계로 보여주고 싶어"},{"role":"assistant","content":"GPT가 감정 요약과 분석에 강해. 프롬프트는 '이 대화 데이터를 감정별로 요약하고 통계로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"긴 리포트를 표로 정리해주고 싶어"},{"role":"assistant","content":"Gemini가 데이터 요약과 표 구조화에 강해. 프롬프트는 '이 리포트를 항목별 표로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"뉴스 기사 여러 개를 비교해서 요약하고 싶어"},{"role":"assistant","content":"Gemini가 다문서 요약에 탁월해. 프롬프트는 '이 뉴스 기사 3개의 주요 차이점을 비교 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"통계 데이터를 분석해서 간단히 설명하고 싶어"},{"role":"assistant","content":"Gemini가 숫자 데이터 해석에 강해. 프롬프트는 '이 통계표를 간단히 설명해줘.'"}]}
+{"messages":[{"role":"user","content":"회의록을 항목별로 정리하고 싶어"},{"role":"assistant","content":"Gemini가 문서 구조화에 특화돼 있어. 프롬프트는 '이 회의록을 주제별로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"여러 리뷰의 공통 의견을 추출하고 싶어"},{"role":"assistant","content":"Gemini가 집단 요약에 강해. 프롬프트는 '이 리뷰들에서 공통된 의견을 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"기사에서 숫자 데이터만 뽑고 싶어"},{"role":"assistant","content":"Gemini가 수치 정보 추출에 강해. 프롬프트는 '이 기사에서 모든 숫자와 단위를 추출해줘.'"}]}
+{"messages":[{"role":"user","content":"긴 논문을 구조적으로 요약하고 싶어"},{"role":"assistant","content":"Gemini가 체계적 요약에 탁월해. 프롬프트는 '이 논문을 서론, 본론, 결론 구조로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"시장 분석 보고서를 한눈에 보이게 정리하고 싶어"},{"role":"assistant","content":"Gemini가 정보 요약과 표 구조화에 강해. 프롬프트는 '이 보고서를 항목별 비교표로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"설문조사 결과를 요약하고 싶어"},{"role":"assistant","content":"Gemini가 데이터 해석에 강해. 프롬프트는 '이 설문 결과를 주요 항목별로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"여러 블로그 글을 종합해서 공통 주제를 찾고 싶어"},{"role":"assistant","content":"Gemini가 주제 추출과 군집화 요약에 특화돼 있어. 프롬프트는 '이 글들에서 반복되는 주제를 찾아 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"기업 재무 데이터를 분석해 요약하고 싶어"},{"role":"assistant","content":"Gemini가 숫자 기반 분석에 강해. 프롬프트는 '이 재무 데이터를 핵심 지표 중심으로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"프로젝트 진행 상황을 요약 보고서로 만들고 싶어"},{"role":"assistant","content":"Gemini가 보고서 구조화에 강해. 프롬프트는 '이 내용을 프로젝트 진행 요약 보고서로 만들어줘.'"}]}
+{"messages":[{"role":"user","content":"여러 문서를 비교해서 차이점을 정리하고 싶어"},{"role":"assistant","content":"Gemini가 비교형 요약에 탁월해. 프롬프트는 '이 문서들의 차이점을 항목별로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"논문 인용문들만 추출하고 싶어"},{"role":"assistant","content":"Gemini가 인용 데이터 인식에 강해. 프롬프트는 '이 논문에서 인용된 문장만 추출해줘.'"}]}
+{"messages":[{"role":"user","content":"기사 요약을 카테고리별로 나누고 싶어"},{"role":"assistant","content":"Gemini가 분류형 요약에 특화돼 있어. 프롬프트는 '이 기사들을 주제별로 묶어서 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"유튜브 댓글을 정리해서 의견 비율을 알고 싶어"},{"role":"assistant","content":"Gemini가 감정 통계화에 강해. 프롬프트는 '이 댓글들을 긍정, 부정, 중립 비율로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"설명서 내용을 항목별로 정리하고 싶어"},{"role":"assistant","content":"Gemini가 절차적 문서 정리에 강해. 프롬프트는 '이 설명서를 단계별 항목으로 나눠줘.'"}]}
+{"messages":[{"role":"user","content":"뉴스 데이터를 날짜별로 정리해 보고 싶어"},{"role":"assistant","content":"Gemini가 시간 순서 요약에 능해. 프롬프트는 '이 뉴스들을 날짜별로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"토론 대본에서 주장과 근거를 구분하고 싶어"},{"role":"assistant","content":"Gemini가 논리적 구조 분석에 강해. 프롬프트는 '이 대본에서 주장과 근거를 구분해줘.'"}]}
+{"messages":[{"role":"user","content":"고객 불만 내용을 유형별로 정리하고 싶어"},{"role":"assistant","content":"Gemini가 클러스터링 분석에 강해. 프롬프트는 '이 불만 내용을 유형별로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"강의 내용을 목차 형태로 정리하고 싶어"},{"role":"assistant","content":"Gemini가 체계적 정리 요약에 특화돼 있어. 프롬프트는 '이 강의 내용을 목차 형식으로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"인터뷰 내용을 표로 요약하고 싶어"},{"role":"assistant","content":"Gemini가 인터뷰 분석과 표 요약에 강해. 프롬프트는 '이 인터뷰 내용을 표로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"분석 리포트에서 핵심 수치만 추출하고 싶어"},{"role":"assistant","content":"Gemini가 수치 기반 요약에 탁월해. 프롬프트는 '이 리포트에서 핵심 수치와 지표만 추출해줘.'"}]}
+{"messages":[{"role":"user","content":"기업 뉴스에서 산업별 동향만 정리하고 싶어"},{"role":"assistant","content":"Gemini가 산업별 정보 정리에 강해. 프롬프트는 '이 기업 뉴스들을 산업별로 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"데이터 분석 보고서의 결론 부분만 추출하고 싶어"},{"role":"assistant","content":"Gemini가 문서 구조 파악에 강해. 프롬프트는 '이 보고서에서 결론 부분만 추출해줘.'"}]}
+{"messages":[{"role":"user","content":"블로그 여러 개에서 핵심 키워드만 뽑고 싶어"},{"role":"assistant","content":"Gemini가 키워드 추출에 강해. 프롬프트는 '이 블로그 글들의 주요 키워드를 뽑아줘.'"}]}
+{"messages":[{"role":"user","content":"회사 업무 일지를 요약해서 성과 보고서로 만들고 싶어"},{"role":"assistant","content":"Gemini가 성과 정리형 요약에 강해. 프롬프트는 '이 업무 일지를 성과 중심 보고서로 요약해줘.'"}]}
+{"messages":[{"role":"user","content":"리뷰를 분석해서 별점 평균을 계산하고 싶어"},{"role":"assistant","content":"Gemini가 텍스트와 숫자 결합 분석에 능해. 프롬프트는 '이 리뷰들의 별점 평균과 주요 의견을 함께 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"논문 여러 편을 요약해서 연구 트렌드를 보고 싶어"},{"role":"assistant","content":"Gemini가 다문서 학술 요약에 강해. 프롬프트는 '이 논문들을 요약해서 최근 연구 트렌드를 정리해줘.'"}]}
+{"messages":[{"role":"user","content":"보고서 초안을 자동으로 구성하고 싶어"},{"role":"assistant","content":"Gemini가 문서 구성 자동화에 강해. 프롬프트는 '이 주제에 맞는 보고서 기본 틀을 만들어줘.'"}]}
